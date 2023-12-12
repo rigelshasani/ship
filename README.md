@@ -5,7 +5,7 @@ Ideas for improvement: <br />
 -Levels<br />
 -Interaction with objects<br />
 -Speed bonuses<br />
--Distance records<br />
+-Distance records<br /> <br />
 
 Screenshots:
 

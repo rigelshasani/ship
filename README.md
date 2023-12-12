@@ -1,5 +1,5 @@
 # Ship game
-Basic functionalities of a ship game. <br />
+Basic functionalities of a ship game. <br /><br />
 Ideas for improvement: <br />
 -Encapsulation<br />
 -Levels<br />

@@ -1,11 +1,11 @@
 # Ship game
-Basic functionalities of a ship game.
-Ideas for improvement:
--Encapsulation
--Levels
--Interaction with objects
--Speed bonuses
--Distance records
+Basic functionalities of a ship game. <br />
+Ideas for improvement: <br />
+-Encapsulation<br />
+-Levels<br />
+-Interaction with objects<br />
+-Speed bonuses<br />
+-Distance records<br />
 
 Screenshots:
 
